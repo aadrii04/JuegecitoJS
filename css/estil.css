@@ -1,0 +1,42 @@
+
+div
+{
+	margin: auto;
+	width: 0px;
+	height: 100px;
+	float: left;
+}
+
+section
+{
+	width: 1200px;
+	height: 150px;
+	float:  top;
+}
+
+.bloque1
+{
+	background-color: red;
+}
+
+.bloque2
+{
+	background-color: blue;
+}
+
+.bloque3
+{
+	background-color: yellow;
+}
+
+.bo
+{
+	margin: auto;
+	//float: down;
+	//margin-top: 500px;
+}
+
+title, h2
+{
+	display: none;
+}
